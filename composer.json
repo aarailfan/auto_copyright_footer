@@ -1,0 +1,18 @@
+{
+  "name": "aarailfan/auto_copyright_footer",
+  "description": "A Drupal 8 module to create a block with a copyright and a contact link.",
+  "type": "drupal-module",
+  "license": "GPL-2.0",
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/aarailfan/auto_copyright_footer"
+    }
+  ],
+  "authors": [
+    {
+      "name": "David Simmons",
+      "role": "Maintainer"
+    }
+  ]
+}
