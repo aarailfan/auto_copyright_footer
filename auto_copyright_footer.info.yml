@@ -1,0 +1,6 @@
+name: Automatic Copyright Footer Module
+description: This module creates a block which displays the current year in a copyright block and a contact link.
+package: Custom
+
+type: module
+core: 8.x
